@@ -37,8 +37,10 @@ macOS Version: Monterey(12.6.1)
 - AirDrop, Sidecar
 - Unlock with Apple Watch
 - Bluetooth
+
 # Display Patch
-- Use patch manual to patch the display (HDMI port )
+- Use patch manual to patch the display (HDMI port ) Thanks to wtsjw 
+
 
 To Get Started, We're Gonna Need **OpenCore 
 
