@@ -1,7 +1,8 @@
 # Msi-H510M-A-PRO-i5-10500-Opencore-hackintosh-bigsur,or monterey
 Hackintosh  for msi h510  motherboard  and i5 10500 with  UHD 630 
 
-OpenCore Version: v0.7.0
+
+OpenCore Version: v0.8
 
 macOS Version: Monterey(12.6.1)
 
@@ -36,6 +37,8 @@ macOS Version: Monterey(12.6.1)
 - AirDrop, Sidecar
 - Unlock with Apple Watch
 - Bluetooth
+# Display Patch
+- Use patch manual to patch the display (HDMI port )
 
 To Get Started, We're Gonna Need **OpenCore 
 
