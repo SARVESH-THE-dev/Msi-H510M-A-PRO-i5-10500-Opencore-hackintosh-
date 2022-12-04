@@ -8,6 +8,10 @@ macOS Version: Monterey(12.6.1)
 
 ## Main Specification
 
+
+![Screenshot 2022-12-04 at 2 11 33 PM](https://user-images.githubusercontent.com/68787359/205481716-d899b70e-e692-45a9-a799-3aeb4edad804.png)
+
+
 | Component   | Model                                                        |
 | ----------- | ------------------------------------------------------------ |
 | CPU         | Intel Core i5-10500 6-Cores And 12hreads @ 3.1Hz<br/>（**Comment Lake** CPUs Are Supported，**Celeron** and **Pentium** CPUs Are Not Supported） |
