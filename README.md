@@ -35,6 +35,7 @@ macOS Version: Monterey(12.6.1)
 - iMessage, iCloud, FaceTime, App Store, Apple Music
 - All USB ports
 - Wifi (intel card )
+- Sleep and Wake Up from Network
 
 ## Not Working
 
